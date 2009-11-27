@@ -322,11 +322,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>50D5EE88109EB58A00664582</string>
+										<string>5048A74D10C085B600485E5B</string>
 										<key>history</key>
 										<array>
 											<string>50ADE77C109E3928008BF26A</string>
-											<string>50ADE77E109E3928008BF26A</string>
+											<string>50D5EE88109EB58A00664582</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -338,14 +338,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {592, 506}}</string>
+								<string>{{0, 0}, {592, 500}}</string>
 								<key>RubberWindowFrame</key>
 								<string>166 140 800 738 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>506pt</string>
+							<string>500pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -358,14 +358,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 511}, {592, 186}}</string>
+								<string>{{0, 505}, {592, 192}}</string>
 								<key>RubberWindowFrame</key>
 								<string>166 140 800 738 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>186pt</string>
+							<string>192pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -384,9 +384,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>50D5EE5A109EAFB800664582</string>
+				<string>5048A74A10C082AB00485E5B</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>50D5EE5B109EAFB800664582</string>
+				<string>5048A74B10C082AB00485E5B</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -525,7 +525,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>50ADE782109E3928008BF26A</string>
-		<string>/Users/madhatter/devel/objective-c/program6_4/program6_4.xcodeproj</string>
+		<string>/Users/madhatter/devel/myCocoa/program6_4/program6_4.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>166 140 800 738 0 0 1440 878 </string>
@@ -605,7 +605,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>50ADE782109E3928008BF26A</string>
-				<string>50D5EE5C109EAFB800664582</string>
+				<string>5048A74C10C082AB00485E5B</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
