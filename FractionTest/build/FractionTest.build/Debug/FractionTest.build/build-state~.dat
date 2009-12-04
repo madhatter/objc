@@ -1,0 +1,129 @@
+TFractionTest
+v7
+r0
+t279181966.690195
+cCheck dependencies
+cProcessPCH /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch.gch FractionTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o /Users/madhatter/devel/objective-c/FractionTest/FractionTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o /Users/madhatter/devel/objective-c/FractionTest/Fraction.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A9E729C0000000000B37450
+t1251898012
+s11760720
+
+N/Users/madhatter/devel/objective-c/FractionTest/Fraction.h
+c000000004AF3C1C300000000000001C5
+t1257488835
+s453
+i<Foundation/Foundation.h>
+
+N/Users/madhatter/devel/objective-c/FractionTest/Fraction.m
+c000000004AF3C3030000000000000256
+t1257489155
+s598
+i"Fraction.h"
+
+N/Users/madhatter/devel/objective-c/FractionTest/FractionTest.m
+c000000004AF3C06100000000000001C8
+t1257488481
+s456
+i"Fraction.h"
+
+N/Users/madhatter/devel/objective-c/FractionTest/FractionTest_Prefix.pch
+c000000004AF3BF7000000000000000A6
+t1257488240
+s166
+i<Foundation/Foundation.h>
+
+N/Users/madhatter/devel/objective-c/FractionTest/build/Debug/FractionTest
+t2
+s0
+
+N/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o
+t2
+s0
+
+N/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.LinkFileList
+c000000004AF3C30B000000000000010A
+t1257489163
+s266
+
+N/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o
+t1257489166
+s7600
+
+N/var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch.gch
+t1257489166
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279181963#279181963#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o /Users/madhatter/devel/objective-c/FractionTest/Fraction.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s279181966.566631
+e279181966.659651
+r0
+xCompileC
+xbuild/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o
+x/Users/madhatter/devel/objective-c/FractionTest/Fraction.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m: In function '-[Fraction print]':
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: expected expression before '@' token
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\342' in program
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\200' in program
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\235' in program
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\342' in program
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\200' in program
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\235' in program
+o/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: warning: format not a string literal and no format arguments
+lSLF07#2@66"Compile /Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181966#279181966#0(888"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m: In function '-[Fraction print]':/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: expected expression before '@' token/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\342' in program/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\200' in program/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\235' in program/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\342' in program/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\200' in program/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: error: stray '\235' in program/Users/madhatter/devel/objective-c/FractionTest/Fraction.m:14: warning: format not a string literal and no format arguments8(4@36"Expected expression before '@' token279181966#93#107#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#19"expected * before *0(4@23"Stray '\342' in program279181966#200#94#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#20"stray '*' in program0(4@23"Stray '\200' in program279181966#294#94#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#20"stray '*' in program0(4@23"Stray '\235' in program279181966#388#94#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#20"stray '*' in program0(4@23"Stray '\342' in program279181966#482#94#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#20"stray '*' in program0(4@23"Stray '\200' in program279181966#576#94#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#20"stray '*' in program0(4@23"Stray '\235' in program279181966#670#94#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#20"stray '*' in program0(22@51"Format not a string literal and no format arguments279181966#764#124#0(6@58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m279181955#14#0#14#0#51"format not a string literal and no format arguments0(0#0#58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m4300882208#1657"    cd /Users/madhatter/devel/objective-c/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/objective-c/FractionTest/build/Debug -I/Users/madhatter/devel/objective-c/FractionTest/build/Debug/include -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch -c /Users/madhatter/devel/objective-c/FractionTest/Fraction.m -o /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o1#
+
+CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o /Users/madhatter/devel/objective-c/FractionTest/FractionTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s279181966.565624
+e279181966.690115
+r1
+xCompileC
+xbuild/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o
+x/Users/madhatter/devel/objective-c/FractionTest/FractionTest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/madhatter/devel/objective-c/FractionTest/FractionTest.m279181966#279181966#0(0"0(0#0#62"/Users/madhatter/devel/objective-c/FractionTest/FractionTest.m4300882208#1665"    cd /Users/madhatter/devel/objective-c/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/objective-c/FractionTest/build/Debug -I/Users/madhatter/devel/objective-c/FractionTest/build/Debug/include -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch -c /Users/madhatter/devel/objective-c/FractionTest/FractionTest.m -o /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o0#
+
+CLd /Users/madhatter/devel/objective-c/FractionTest/build/Debug/FractionTest normal x86_64
+r0
+
+CProcessPCH /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch.gch FractionTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s279181963.837382
+e279181966.565453
+r1
+xProcessPCH
+x/var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch.gch
+xFractionTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FractionTest_Prefix.pch279181963#279181966#0(0"0(0#0#71"/Users/madhatter/devel/objective-c/FractionTest/FractionTest_Prefix.pch4300882208#1541"    cd /Users/madhatter/devel/objective-c/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/objective-c/FractionTest/build/Debug -I/Users/madhatter/devel/objective-c/FractionTest/build/Debug/include -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -c /Users/madhatter/devel/objective-c/FractionTest/FractionTest_Prefix.pch -o /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch.gch0#
+
