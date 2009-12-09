@@ -8,8 +8,10 @@ int main (int argc, const char * argv[]) {
 	// set fraction to 1/3
 	//[myFraction setNumerator: 1];
 	//[myFraction setDenominator: 3];
-	myFraction.numerator   = 1;
-	myFraction.denominator = 3;
+	//myFraction.numerator   = 1;
+	//myFraction.denominator = 3;
+	
+	[myFraction setTo:100 over:200];
 	
 	// display the fraction
 	printf("The value of myFraction is: ");

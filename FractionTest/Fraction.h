@@ -24,6 +24,7 @@
 -(int)		numerator;
 -(int)		denominator;
 */
+-(void)		setTo: (int) n over: (int) d;
 -(double)	convertToNum;
 
 @end
