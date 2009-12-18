@@ -1,7 +1,7 @@
 TFractionTest
 v7
 r0
-t282032556.534852
+t282864187.255597
 cCheck dependencies
 cProcessPCH /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gtdolowdqkxddihcvapsziwzkkrs/FractionTest_Prefix.pch.gch FractionTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o /Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -29,21 +29,21 @@ t1251898012
 s11760704
 
 N/Users/madhatter/devel/myCocoa/FractionTest/Fraction.h
-c000000004B1F41BF000000000000021A
-t1260339647
-s538
+c000000004B25DE3E0000000000000238
+t1260772926
+s568
 i<Foundation/Foundation.h>
 
 N/Users/madhatter/devel/myCocoa/FractionTest/Fraction.m
-c000000004B1F41AE00000000000002CA
-t1260339630
-s714
+c000000004B266D0B000000000000039D
+t1260809483
+s925
 i"Fraction.h"
 
 N/Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m
-c000000004B1F4229000000000000022D
-t1260339753
-s557
+c000000004B2BF2AF00000000000002C3
+t1261171375
+s707
 i"Fraction.h"
 
 N/Users/madhatter/devel/myCocoa/FractionTest/FractionTest_Prefix.pch
@@ -53,12 +53,12 @@ s166
 i<Foundation/Foundation.h>
 
 N/Users/madhatter/devel/myCocoa/FractionTest/build/Debug/FractionTest
-t1260339756
-s11096
+t1261171387
+s15360
 
 N/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o
-t1260339651
-s11264
+t1261171386
+s12192
 
 N/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.LinkFileList
 c000000004B1932530000000000000102
@@ -66,8 +66,8 @@ t1259942483
 s258
 
 N/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o
-t1260339756
-s7492
+t1261171386
+s7808
 
 N/Users/madhatter/devel/objective-c/FractionTest/Fraction.h
 c000000004AF3C5EE00000000000001F3
@@ -124,11 +124,11 @@ s41405200
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies282032556#282032556#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies282864182#282864182#0(0"0(0#1#0"32088628383449192#0"0#
 
 CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o /Users/madhatter/devel/myCocoa/FractionTest/Fraction.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s282032451.685124
-e282032451.931662
+s282864184.362226
+e282864186.284808
 r1
 xCompileC
 xbuild/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o
@@ -137,7 +137,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/madhatter/devel/myCocoa/FractionTest/Fraction.m282032451#282032451#0(0"0(0#0#54"/Users/madhatter/devel/myCocoa/FractionTest/Fraction.m4300885448#1613"    cd /Users/madhatter/devel/myCocoa/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -I/Users/madhatter/devel/myCocoa/FractionTest/build/Debug/include -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gtdolowdqkxddihcvapsziwzkkrs/FractionTest_Prefix.pch -c /Users/madhatter/devel/myCocoa/FractionTest/Fraction.m -o /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o0#
+lSLF07#2@62"Compile /Users/madhatter/devel/myCocoa/FractionTest/Fraction.m282864184#282864186#0(0"0(0#0#54"/Users/madhatter/devel/myCocoa/FractionTest/Fraction.m4300885448#1613"    cd /Users/madhatter/devel/myCocoa/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -I/Users/madhatter/devel/myCocoa/FractionTest/build/Debug/include -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gtdolowdqkxddihcvapsziwzkkrs/FractionTest_Prefix.pch -c /Users/madhatter/devel/myCocoa/FractionTest/Fraction.m -o /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o0#
 
 CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o /Users/madhatter/devel/objective-c/FractionTest/Fraction.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s279182735.915605
@@ -153,8 +153,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Users/madhatter/devel/objective-c/FractionTest/Fraction.m279182735#279182736#0(0"0(0#0#58"/Users/madhatter/devel/objective-c/FractionTest/Fraction.m4300882208#1657"    cd /Users/madhatter/devel/objective-c/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/objective-c/FractionTest/build/Debug -I/Users/madhatter/devel/objective-c/FractionTest/build/Debug/include -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch -c /Users/madhatter/devel/objective-c/FractionTest/Fraction.m -o /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o0#
 
 CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o /Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s282032556.396681
-e282032556.516295
+s282864182.985851
+e282864186.338761
 r1
 xCompileC
 xbuild/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o
@@ -163,7 +163,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m282032556#282032556#0(0"0(0#0#58"/Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m4300885448#1621"    cd /Users/madhatter/devel/myCocoa/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -I/Users/madhatter/devel/myCocoa/FractionTest/build/Debug/include -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gtdolowdqkxddihcvapsziwzkkrs/FractionTest_Prefix.pch -c /Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m -o /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o0#
+lSLF07#2@66"Compile /Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m282864183#282864186#0(0"0(0#0#58"/Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m3414132465382685184#1621"    cd /Users/madhatter/devel/myCocoa/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -I/Users/madhatter/devel/myCocoa/FractionTest/build/Debug/include -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gtdolowdqkxddihcvapsziwzkkrs/FractionTest_Prefix.pch -c /Users/madhatter/devel/myCocoa/FractionTest/FractionTest.m -o /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o0#
 
 CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o /Users/madhatter/devel/objective-c/FractionTest/FractionTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s279182915.441238
@@ -179,14 +179,14 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@70"Compile /Users/madhatter/devel/objective-c/FractionTest/FractionTest.m279182915#279182915#0(0"0(0#0#62"/Users/madhatter/devel/objective-c/FractionTest/FractionTest.m4300882208#1665"    cd /Users/madhatter/devel/objective-c/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/Users/madhatter/devel/objective-c/FractionTest/build/Debug -I/Users/madhatter/devel/objective-c/FractionTest/build/Debug/include -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/zu/zuEONUi7FQOuZ97cIMdIDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-gzhdamzhyqueprcbnaxgrltfexyo/FractionTest_Prefix.pch -c /Users/madhatter/devel/objective-c/FractionTest/FractionTest.m -o /Users/madhatter/devel/objective-c/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o0#
 
 CLd /Users/madhatter/devel/myCocoa/FractionTest/build/Debug/FractionTest normal x86_64
-s282032556.516385
-e282032556.534804
+s282864186.338844
+e282864187.255540
 r1
 xLd
 x/Users/madhatter/devel/myCocoa/FractionTest/build/Debug/FractionTest
 xnormal
 xx86_64
-lSLF07#2@73"Link /Users/madhatter/devel/myCocoa/FractionTest/build/Debug/FractionTest282032556#282032556#0(0"0(0#0#0"4300885448#565"    cd /Users/madhatter/devel/myCocoa/FractionTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -F/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -filelist /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/madhatter/devel/myCocoa/FractionTest/build/Debug/FractionTest0#
+lSLF07#2@73"Link /Users/madhatter/devel/myCocoa/FractionTest/build/Debug/FractionTest282864186#282864187#0(0"0(0#0#0"4300885448#565"    cd /Users/madhatter/devel/myCocoa/FractionTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -F/Users/madhatter/devel/myCocoa/FractionTest/build/Debug -filelist /Users/madhatter/devel/myCocoa/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/madhatter/devel/myCocoa/FractionTest/build/Debug/FractionTest0#
 
 CLd /Users/madhatter/devel/objective-c/FractionTest/build/Debug/FractionTest normal x86_64
 s279182915.539676

@@ -41,4 +41,12 @@
 	else 
 		return 1.0;
 }
+
+-(void) add:(Fraction *) f {
+	// To add two fractions
+	// a/b + c/d = ((a*d) + (b*c)) / (b*d)
+	
+	numerator = numerator * f.denominator + denominator * f.numerator;
+	denominator = denominator * f.denominator;
+}
 @end

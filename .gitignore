@@ -1,7 +1,10 @@
 # xcode noise
 build/*
 *.pbxuser
+*.perspective
+*.perspectivev3
 *.mode1v3
+*.mode2v3
 
 # old skool
 .svn
@@ -10,3 +13,5 @@ build/*
 .DS_Store
 profile
 
+*.swp
+*~.nib
