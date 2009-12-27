@@ -6,12 +6,6 @@ int main (int argc, const char * argv[]) {
 	Fraction *aFraction = [[Fraction alloc] init];
     Fraction *bFraction = [[Fraction alloc] init];
 	
-	// set fraction to 1/3
-	//[myFraction setNumerator: 1];
-	//[myFraction setDenominator: 3];
-	//myFraction.numerator   = 1;
-	//myFraction.denominator = 3;
-	
 	[aFraction setTo:1 over:4];
 	[bFraction setTo:1 over:2];
 	
